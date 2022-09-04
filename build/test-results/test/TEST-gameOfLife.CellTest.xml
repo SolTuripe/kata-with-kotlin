@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="gameOfLife.CellTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-04T17:45:37" hostname="MacBook-Pro-de-Sol.local" time="0.028">
+<testsuite name="gameOfLife.CellTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-04T18:27:34" hostname="Sols-MacBook-Air.local" time="0.012">
   <properties/>
-  <testcase name="cell should die when under population()" classname="gameOfLife.CellTest" time="0.019"/>
-  <testcase name="cell should live when two or three living neighbors()" classname="gameOfLife.CellTest" time="0.003"/>
+  <testcase name="cell should die when under population()" classname="gameOfLife.CellTest" time="0.01"/>
+  <testcase name="cell should live when two or three living neighbors()" classname="gameOfLife.CellTest" time="0.001"/>
   <testcase name="cell should die when overpopulation()" classname="gameOfLife.CellTest" time="0.0"/>
-  <testcase name="cell should reborn when three living neighbors()" classname="gameOfLife.CellTest" time="0.002"/>
+  <testcase name="cell should reborn when three living neighbors()" classname="gameOfLife.CellTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
